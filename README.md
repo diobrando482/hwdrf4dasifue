@@ -8,11 +8,10 @@
    cd ваш-репозиторий
 Установите зависимости:
 
-bash
-Copy
+
 pip install -r requirements.txt
 Запустите проект:
 
-bash
-Copy
-python main.py
+
+python main.py runserver
+
